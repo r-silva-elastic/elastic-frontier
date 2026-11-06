@@ -1,39 +1,24 @@
-# Elastic Frontier / Fronteira Elástica
+# Fronteira Elástica v3.3-2 / Elastic Frontier v3.3-2
 
-Theoretical-analytical model (pen-and-paper derivation) from initial formulation to DOI registration.
+**Autor:** Rogério A. Silva - São Paulo, Brasil
+**DOI (Zenodo):** 10.5281/zenodo.23992892
+**ORCID:** 0009-0007-5824-2953
+**Licença:** MIT
 
-This work does NOT contain numerical simulation code at this stage.
+## Modelo Teórico-Analítico
 
-Future numerical implementation is planned for computational testing and comparison with observational missions such as JWST and LiteBIRD.
+Modelo teórico-analítico com formalismo Einstein-Cartan.
 
-Author: Rogério A. Silva
-License: MIT
-Status: Analytical theory - Code N/A for current peer-review
+Equação principal: A = 0.07 * alpha
 
-Hello! I'm Rogerio A. Silva! 👋
+- Parâmetro de permeabilidade (alpha): 0.01 a 0.05
+- Ponto observacional: Eixo do Mal em (l,b) = (237, -10)
+- Teste futuro: JWST e LiteBIRD
 
-I am an **Independent Researcher, Author, Writer, and Entrepreneur** based in São Paulo, Brazil.
+Este trabalho NÃO contém código de simulação numérica nesta fase (Code N/A para peer-review - versão analítica limpa).
 
-My journey is driven by a passion for exploring the frontiers of knowledge—whether through the rigorous equations of theoretical physics, the narrative power of literature, or the strategic challenges of the business world. I strongly advocate for **Open Science** and independent, self-directed intellectual production.
+## Links
 
-### 🔬 Scientific Research and Cosmology
-My main research program is the **Elastic Boundary** model, a theoretical framework that incorporates the Einstein-Cartan formalism to address central questions in modern cosmology:
-
-* **Singularity Resolution:** Deducing rebound mechanisms via spin-torsion coupling to circumvent initial cosmological singularities.
-
-* **Intertemporal Analysis:** Mapping horizon permeability ($\alpha$) relative to observational data from Planck, JWST, and NanoGrav.
-
-* **Alternative Dark Matter:** Simulation of galactic halo profiles (NFW) as a manifestation of the geometric drag of external tidal potentials.
-
-### ✍️ Literature and Writing
-As an **author and writer**, I dedicate myself to creating narratives and literature that transform complex, structural, and philosophical questions into engaging prose. Writing is my vehicle for exploring human curiosity, logic, and the deeper meanings behind the structures of our universe.
-
-### 💼 Entrepreneurship
-As an **entrepreneur**, I manage private ventures, applying analytical problem-solving and strategic thinking to build sustainable projects outside the boundaries of traditional academic and corporate environments.
-
-### 🌐 Connect with me
-* 📄 **ORCID:** [https://orcid.org/0009-0007-5824-295X]
-* 🧬 **Zenodo Preprints:** [zenodo.org/records/23578581]
-* 💼 **LinkedIn / Professional Contact:** [https://www.linkedin.com/in/rog%C3%A9rio-a-s-2ab676445/]
-
-*“The elimination of boundaries in science and art begins with the independence of the mind.”*
+- Zenodo (v3.3-2): https://zenodo.org/records/23992892
+- GitHub: https://github.com/r-silva-elastic/elastic-frontier
+- Perfil: https://orcid.org/0009-0007-5824-2953
